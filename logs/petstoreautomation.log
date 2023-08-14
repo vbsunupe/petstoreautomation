@@ -1,0 +1,19 @@
+18:42:37.658 [main] INFO  api.test.UserTests - ******Creating user***********
+18:42:41.946 [main] INFO  api.test.UserTests - ******User is created****
+18:42:41.954 [main] INFO  api.test.UserTests - ******READING USER INFO****
+18:42:44.444 [main] INFO  api.test.UserTests - ******READING USER INFO****
+18:42:44.763 [main] INFO  api.test.UserTests - ******json schema is validated****
+18:42:48.843 [main] INFO  api.test.UserTests - ******USER IS UPDATED****
+18:42:51.101 [main] INFO  api.test.UserTests - ******DELETING USER****
+18:42:53.037 [main] INFO  api.test.UserTests - ******USER IS DELETED****
+18:51:05.354 [main] INFO  api.test.UserTests - ******Creating user***********
+18:51:06.867 [main] INFO  api.test.UserTests - ******READING USER INFO****
+18:51:06.918 [main] INFO  api.test.UserTests - ******DELETING USER****
+18:51:38.716 [main] INFO  api.test.UserTests - ******Creating user***********
+18:51:42.338 [main] INFO  api.test.UserTests - ******User is created****
+18:51:42.353 [main] INFO  api.test.UserTests - ******READING USER INFO****
+18:51:44.087 [main] INFO  api.test.UserTests - ******READING USER INFO****
+18:51:44.369 [main] INFO  api.test.UserTests - ******json schema is validated****
+18:51:46.849 [main] INFO  api.test.UserTests - ******USER IS UPDATED****
+18:51:48.802 [main] INFO  api.test.UserTests - ******DELETING USER****
+18:51:51.149 [main] INFO  api.test.UserTests - ******USER IS DELETED****
