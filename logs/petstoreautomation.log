@@ -17,3 +17,13 @@
 18:51:46.849 [main] INFO  api.test.UserTests - ******USER IS UPDATED****
 18:51:48.802 [main] INFO  api.test.UserTests - ******DELETING USER****
 18:51:51.149 [main] INFO  api.test.UserTests - ******USER IS DELETED****
+17:52:23.839 [main] INFO  api.test.PetTests - ******Creating pet***********
+18:20:21.710 [main] INFO  api.test.PetTests - ******Creating pet***********
+18:21:18.334 [main] INFO  api.test.PetTests - ******Creating pet***********
+18:21:22.478 [main] INFO  api.test.PetTests - ******pet  is created****
+18:22:56.949 [main] INFO  api.test.PetTests - ******Creating pet***********
+18:23:00.989 [main] INFO  api.test.PetTests - ******pet  is created****
+18:28:24.944 [main] INFO  api.test.PetTests - ******Creating pet***********
+18:28:29.267 [main] INFO  api.test.PetTests - ******pet  is created****
+18:29:14.243 [main] INFO  api.test.PetTests - ******Creating pet***********
+18:29:18.058 [main] INFO  api.test.PetTests - ******pet  is created****
