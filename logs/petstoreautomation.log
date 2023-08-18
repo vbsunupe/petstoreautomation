@@ -27,3 +27,33 @@
 18:28:29.267 [main] INFO  api.test.PetTests - ******pet  is created****
 18:29:14.243 [main] INFO  api.test.PetTests - ******Creating pet***********
 18:29:18.058 [main] INFO  api.test.PetTests - ******pet  is created****
+18:15:00.038 [main] INFO  api.test.Authentication - ******Api is authenticated****
+18:39:40.745 [main] INFO  api.test.Authentication - ******Api is authenticated****
+18:40:36.218 [main] INFO  api.test.Authentication - ******Api is authenticated****
+18:41:18.625 [main] INFO  api.test.Authentication - ******Api is authenticated****
+18:42:17.999 [main] INFO  api.test.Authentication - ******Api is authenticated****
+18:44:29.287 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:05:52.595 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:05:54.664 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:11:17.606 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:11:19.682 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:18:37.415 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:18:39.692 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:21:38.022 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:21:38.488 [main] INFO  api.test.Authentication - ******message verified****
+23:21:42.277 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:21:42.296 [main] INFO  api.test.Authentication - ******message verified****
+23:22:19.554 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:22:20.073 [main] INFO  api.test.Authentication - ******message verified****
+23:22:22.313 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:22:22.336 [main] INFO  api.test.Authentication - ******message verified****
+23:22:24.566 [main] INFO  api.test.Authentication - ******Api is authenticated****
+23:22:24.588 [main] INFO  api.test.Authentication - ******message verified****
+23:23:55.448 [TestNG-tests-1] INFO  api.test.UserTests - ******Creating user***********
+23:23:59.446 [TestNG-tests-1] INFO  api.test.UserTests - ******User is created****
+23:23:59.730 [TestNG-tests-1] INFO  api.test.UserTests - ******READING USER INFO****
+23:24:01.335 [TestNG-tests-1] INFO  api.test.UserTests - ******READING USER INFO****
+23:24:01.357 [TestNG-tests-1] INFO  api.test.UserTests - ******json schema is validated****
+23:24:02.973 [TestNG-tests-1] INFO  api.test.UserTests - ******USER IS UPDATED****
+23:24:04.527 [TestNG-tests-1] INFO  api.test.UserTests - ******DELETING USER****
+23:24:06.350 [TestNG-tests-1] INFO  api.test.UserTests - ******USER IS DELETED****
